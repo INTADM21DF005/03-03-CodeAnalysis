@@ -1,0 +1,9 @@
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\bin\Debug\CustomizeRuleSetsHandsOn.exe.config
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\bin\Debug\CustomizeRuleSetsHandsOn.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\bin\Debug\CustomizeRuleSetsHandsOn.pdb
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\bin\Debug\CustomizeRuleSetsHandsOn.exe.CodeAnalysisLog.xml
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\bin\Debug\CustomizeRuleSetsHandsOn.exe.lastcodeanalysissucceeded
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\obj\Debug\CustomizeRuleSetsHandsOn.csprojAssemblyReference.cache
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\obj\Debug\CustomizeRuleSetsHandsOn.csproj.CoreCompileInputs.cache
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\obj\Debug\CustomizeRuleSetsHandsOn.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CustomizeRuleSetsHandsOn\CustomizeRuleSetsHandsOn\obj\Debug\CustomizeRuleSetsHandsOn.pdb

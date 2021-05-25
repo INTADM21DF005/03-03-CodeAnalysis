@@ -1,0 +1,7 @@
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+E:\COGNIZANT\INTERNSHIP\HANDS ON\NUnit code reference\HANDS ON 7\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
